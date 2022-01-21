@@ -1,0 +1,135 @@
+temas possíveis:
+- previsão de densidade populacional em determinado tempo
+- previsão de resultados desportivos
+- previsão de meteriologia nas praias e condições para surf
+- reconhecimento de voz e tradução
+- reconhecimento de voz para utilizar como chave
+- reconhecimento de voz para 
+- internet for blind users
+
+biblioteca scikit-learn
+
+numpy
+-calcular tempos
+-acelarar loops em relação ao padrão do pyhton, porque foi programado na linguagem C
+-operações com matrizes
+
+pandas
+-lê csv, xml ou json
+-permite calculos com os valores dos ficheiros
+
+scikit-learning
+-feito para interagir com bibliotecas do python
+-contem os principais algoritmos de ML
+
+KNN (K Nearest Neibour)
+
+pesquisar image captioning
+
+
+Deep Learning basics with Python, TensorFlow and Keras	
+
+pickle
+
+app para classificar imagens
+ler tese do jose
+api para qualiadade de imagem
+
+
+
+
+
+Login
+
+Instruções
+
+Tirar botão de proxima imagem
+
+DB
+id user foto criterio score data
+
+ver o data sets que o jose menciona na tese e outros data sets como faces in the wild
+
+ver as caracteristicas que estao contempladas no iso e comparar com as que estao na tese do jose
+
+verificar intrução em html para as imagens n ficarem em cache
+
+
+
+2 blurred
+5 unnatura skin tone
+6 too dark/light
+7 Washed out
+8 Pixilation
+10 eyes closed
+14 red eyes
+17 dark tinted lenses
+21 hat/cap
+23 mouth open
+
+
+jf395725@gmail.
+
+jsf.scp@
+
+
+
+
+moldura a volta da imagem
+juntar as imagens no ecrã inicial
+acrescentar sessão na db
+tamanho de sessões variavel
+limitar por tempo
+ajuda com fadein/fadeout
+colocar no git
+
+
+
+<!--
+!moldura a volta da imagem
+!juntar as imagens no ecrã inicial
+!acrescentar sessão na db
+tamanho de sessões variavel
+!limitar por tempo
+ajuda com fadein/fadeout
+colocar no git
+limitar 3 avaliações por foto
+
+verificar cedencia de dados (falar com alunos)
+escolher fotos aliatórias (aritmetica modular)
+
+user: diogo
+pass: pipoca
+
+estado da arte das api's em deep learning
+redes neuronais nas api requesitos boas praticas estrategia integração api's disponibilisadas git hub como está estruturado
+redes neuronais ja treinadas engenharia de software
+google face api rede pre treinada para treinamento de faces (exemplo de api) microsoft deve ter uma parecida
+apiś online
+apis pre treinadas
+pricing calculator
+face detection
+face api documentation
+ler bem os abstracts
+avaliar o iso do
+
+outline tese
+
+user do github: jpaos
+
+usuario  GitHub mauriciobreternitz email mbreternitz@gmail.com
+
+zamb.iul.lab
+
+vpn.iscte-iul.pt
+google face api
+exemplo de api
+
+Microsoft tambem tem algo parecido
+Face API - Facial Recognition Software | Microsoft Azure
+https://azure.microsoft.com
+
+um exemplo
+https://docs.aws.amazon.com/rekognition/latest/dg/faces.html
+
+https://azure.microsoft.com/en-us/services/cognitive-services/face/ -->
